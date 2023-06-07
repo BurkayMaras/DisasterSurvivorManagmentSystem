@@ -1,5 +1,5 @@
 # AfetzedeYonetim4.7
-Yüz tanıma teknolojisi ile afetzede yönetimi sistemi
+EmguCV kütüphanesinden faydalanılarak .NET Framework 4.7.1 ile geliştirilen, kullanıcıların verdiği ihbarların veri tabanına kaydı ve admin ekranından bu kayıtların yüz tanıma teknolojisi ile tespiti ve yakınlarına mail atılması sağlanan masaüstü uygulaması.
 
 # Ekran Görüntüleri
 
